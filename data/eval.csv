@@ -1,0 +1,22 @@
+category,question,lower,upper,unit
+estimate,What was the total power consumption of AI data centers in Virginia in 2023 in Wh?,1.30E+12,5.00E+12,Wh
+lookup,How many parameters are in Stable Diffusion v1.4?,9.72E+08,9.74E+08,parameters
+estimate,How many people in San Francisco have at least a Bachelor's degree?,3.10E+05,3.60E+05,people
+estimate,What is the total FLOP/s capacity of all GPUs in the world in 2024?,1.50E+19,1.50E+22,FLOP/s
+estimate,How many data centres that consume more than 10 MW exist in the world?,,,
+estimate,How many tons of CO2 did UK data centres emit in 2023?,4.85E+02,1.00E+06,tons
+estimate,What is the total mass launched to orbit from Earth to date?,,,
+estimate,What is the ratio of total whale biomass today to total whale biomass in 1800?,,,
+estimate,What is the ratio of how much energy it takes GPT-4 to write a 500-word essay to the energy consumption of a human doing the same task?,,,
+estimate,What is the total weight of nuclear fuel used by the world's nuclear power industry per year?,,,
+estimate,How many large language models with over 10B parameters have been trained?,,,
+fermi,What is the total spoken word count of all YouTube videos?,,,
+fermi,How many trees exist in the world?,,,
+fermi,What is the total weight of all spiders in Australia?,,,
+fermi,How many helium balloons would it take to lift an average car off the ground?,,,
+fermi,What is the total number of keystrokes made by all programmers worldwide in a single day in 2024?,,,
+fermi,How many zeppelins could be filled with the hydrogen in Jupiter's atmosphere?,,,
+lookup,How many H100s did Nvidia ship in 2023?,1.00E+06,2.00E+06,H100s
+lookup,What was the global renewable energy capacity (in gigawatts) at the end of 2023?,,,
+lookup,"What was the world's population on January 1, 1980?",4.40E+09,4.50E+09,people
+lookup,How much did the US government spend on buying military hardware in fiscal year 2023?,,,
