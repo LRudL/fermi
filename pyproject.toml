@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "fermi"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+litellm = "^1.47.1"
+python-dotenv = "^1.0.1"
+tqdm = "^4.66.5"
+gpt-researcher = "^0.9.6"
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29.5"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
